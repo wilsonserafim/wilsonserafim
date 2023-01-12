@@ -21,6 +21,9 @@ https://wa.me/5581996845698
 
 ## Olá seja bem vindo ao meu GitHub me chamo Wilson Serafim e estou estudando para ser um Desenvolvedor Full Stack.
 
+[![card](https://github-readme-stats.vercel.app/api?username=wilsonserafim&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 <div align="center">
   <a href="https://github.com/wilsonserafim">
